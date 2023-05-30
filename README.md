@@ -12,12 +12,12 @@ KONTAKT<br>
 Telefon: +49 (0) 160 / 95030109 <br>
 E-Mail: mohsen.asadipour@algorithmx.de<br>
 
-REGISTEREINTRAG<br>
+<h3>REGISTEREINTRAG<br></h3>
 Eintragung im Handelsregister. <br>
 Registergericht: Amtsgericht Ulm <br>
 Registernummer: HRB 735175<br>
 
-UMSATZSTEUER<br>
+<h3>UMSATZSTEUER</h3><br>
 Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:<br>
 DE312333725<br>
 
