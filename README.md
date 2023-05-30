@@ -4,18 +4,22 @@
 AlgorithmX Automation GmbH <br> 
 Danziger Str. 3 <br> 
 88250 Weingarten
+<br><br>
 
 <h3>VERTRETEN DURCH</h3>
-Mohsen Asadipour<br>
+Mohsen Asadipour
+<br><br>
 
 <h3>KONTAKT</h3>
 Telefon: +49 (0) 160 / 95030109 <br>
-E-Mail: mohsen.asadipour@algorithmx.de<br>
+E-Mail: mohsen.asadipour@algorithmx.de
+<br><br>
 
 <h3>REGISTEREINTRAG</h3>
 Eintragung im Handelsregister. <br>
 Registergericht: Amtsgericht Ulm <br>
-Registernummer: HRB 735175<br>
+Registernummer: HRB 735175
+<br><br>
 
 <h3>UMSATZSTEUER</h3>
 Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:<br>
