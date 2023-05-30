@@ -1,6 +1,10 @@
 IMPRESSUM
-ANGABEN GEMÄSS § 5 TMG
-AlgorithmX Automation GmbH Danziger Str. 3 88250 Weingarten
+
+ANGABEN GEMÄSS § 5 TMG <br> 
+AlgorithmX Automation GmbH <br> 
+Danziger Str. 3 <br> 
+88250 Weingarten
+
 VERTRETEN DURCH
 Mohsen Asadipour
 
