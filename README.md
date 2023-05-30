@@ -1,6 +1,6 @@
 <h1>IMPRESSUM</h1>
 
-<h2>ANGABEN GEMÄSS § 5 TMG</h2> <br>
+<h3>ANGABEN GEMÄSS § 5 TMG</h3> <br>
 AlgorithmX Automation GmbH <br> 
 Danziger Str. 3 <br> 
 88250 Weingarten
